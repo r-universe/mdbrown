@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rmda"]
+	path = rmda
+	url = https://github.com/mdbrown/rmda
+	shallow = true
+	registered = true
