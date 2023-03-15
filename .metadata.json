@@ -2,5 +2,9 @@
   {
     "package": "rmda",
     "oncran": true
+  },
+  {
+    "package": "TreatmentSelection",
+    "oncran": true
   }
 ]

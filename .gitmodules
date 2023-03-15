@@ -8,3 +8,8 @@
 	url = https://github.com/mdbrown/rmda
 	shallow = true
 	registered = true
+[submodule "TreatmentSelection"]
+	path = TreatmentSelection
+	url = https://github.com/mdbrown/treatmentselection
+	shallow = true
+	registered = true
