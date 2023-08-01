@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rmda"]
-	path = rmda
-	url = https://github.com/mdbrown/rmda
 [submodule "TreatmentSelection"]
 	path = TreatmentSelection
 	url = https://github.com/mdbrown/treatmentselection
+[submodule "rmda"]
+	path = rmda
+	url = https://github.com/mdbrown/rmda
